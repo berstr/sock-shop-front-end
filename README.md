@@ -9,6 +9,7 @@ public/basket.html
 public/customer-account.html
 public/customer-order.html
 public/customer-orders.html
+public/index.html
 
 ## Docker Image
 
